@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: ocean
   theme_night:
   font: native
   font_size: L
@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'Process Systems Engineering and Sustainable Production Lab'
+    description: 'Research group at NCKU Department of Chemical Engineering advancing sustainable manufacturing and net-zero carbon through CCUS, life cycle assessment, adsorption separation, and process systems engineering.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -36,7 +36,7 @@ header:
     enable: true
     align: r
     show_logo: true
-    show_language: false
+    show_language: true
     show_day_night: true
     show_search: true
     highlight_active_link: false
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Process Systems Engineering and Sustainable Production Lab, NCKU. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -72,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/tsaiwei-psesp/tsaiwei-psesp.github.io'
     content_dir: content
     branch: main
   avatar:

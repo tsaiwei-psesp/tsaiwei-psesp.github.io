@@ -1,61 +1,57 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Tsai-Wei Wu
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Tsai-Wei
+last_name: Wu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Principal Investigator · 教授
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Department of Chemical Engineering, National Cheng Kung University
+    url: 'https://www.che.ncku.edu.tw/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Research on sustainable manufacturing and net-zero carbon — CCUS, life cycle assessment, adsorption separation, and process systems engineering.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Carbon Capture, Utilization & Storage (CCUS)
+  - Life Cycle Assessment (LCA)
+  - Process Systems Engineering (PSE)
+  - Net-Zero Solutions in Chemical Engineering
 
+# Rendered under the heading "Experience" (renamed via i18n/en.yaml).
+# PhD + work experience only.
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Project Assistant Professor
+      institution: Tohoku University, Japan
+      year: 2024–2025
+    - course: Postdoctoral Researcher
+      institution: Tohoku University, Japan
+      year: 2023–2024
+    - course: Process Development Engineer
+      institution: Reciprocal Phi Design Inc.
+      year: 2015–2023
+    - course: PhD in Chemical Engineering
+      institution: National Taiwan University
+      year: 2022
 
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+# For an email link, use "fas" icon pack, "envelope" icon, and link "mailto:..."
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:twwu@gs.ncku.edu.tw'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+    link: 'https://scholar.google.com.tw/citations?user=Vl7nZuYAAAAJ&hl=zh-TW'
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
@@ -64,14 +60,15 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Prof. Tsai-Wei Wu leads the Process Systems Engineering and Sustainable Production Lab at the Department of Chemical Engineering, National Cheng Kung University (NCKU). Her work spans the full process systems spectrum — from conceptual design and detailed process configuration to control strategies — with a current focus on sustainable, net-zero strategies for the chemical manufacturing industry.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+She earned her Ph.D. in Chemical Engineering from National Taiwan University (Process Systems Engineering Lab, advised by Prof. I-Lung Chien) and her B.S./M.S. from National Tsing Hua University. Before joining NCKU she spent over six years as a process development engineer in industry, and was a postdoctoral researcher and project assistant professor at Tohoku University, Japan. Her research interests include systematic evaluation of CO₂ capture, utilization & storage (CCUS); life cycle assessment; adsorption separation; and plant-wide process optimization, energy integration, and techno-economic & environmental analysis.
+
+> 簡介初稿已依 CV 撰寫，請自行潤飾。中文版之後可加 `_index.zh-hant.md`。

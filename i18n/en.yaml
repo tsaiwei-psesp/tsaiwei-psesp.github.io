@@ -1,0 +1,4 @@
+# Site-level i18n overrides (English).
+# Rename the author-profile "Education" heading to "Experience".
+- id: education
+  translation: Experience

@@ -6,23 +6,52 @@ type: landing
 
 sections:
   - block: hero
+    id: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Process Systems Engineering &
+        Sustainable Production Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
+
+        At the **Department of Chemical Engineering, National Cheng Kung University (NCKU)**, we engineer the path to **net-zero chemical manufacturing** — combining process simulation, optimization, and life cycle assessment to turn decarbonization ideas into deployable processes.
+
+  - block: features
+    id: directions
+    content:
+      title: What We're Building
+      subtitle: Three directions where we're looking for industry partners
+      items:
+        - name: Electrify & Quantify
+          icon: bolt
+          icon_pack: fas
+          description: 'Simulating electrified chemical processes and quantifying their carbon-and-cost payoff through life cycle assessment.'
+        - name: From Capture to Storage
+          icon: route
+          icon_pack: fas
+          description: 'Optimizing the full CO₂ supply chain — from emission sources through pipelines to geological sinks — with network-level LCA.'
+        - name: LCA at Machine Speed
+          icon: robot
+          icon_pack: fas
+          description: 'LLM-driven pipelines that turn process documents into auditable life-cycle inventories, cutting LCA turnaround time.'
+
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./research/" cta_text="Explore our research →" %}}
+    design:
+      columns: '1'
+
   - block: collection
     content:
       title: Latest News
       subtitle:
       text:
-      count: 5
+      count: 4
       filters:
         author: ''
         category: ''
@@ -34,46 +63,32 @@ sections:
       page_type: post
     design:
       view: card
-      columns: '1'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      columns: '2'
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Recent Publications
       text: ""
       count: 5
       filters:
         folders:
           - publication
-        publication_type: 'article'
     design:
       view: citation
       columns: '1'
 
   - block: markdown
     content:
-      title:
+      title: About the Lab
       subtitle:
       text: |
+        The lab is led by **Prof. Tsai-Wei Wu**, who brings six years of
+        industrial process-development experience, a PhD in Process Systems
+        Engineering from National Taiwan University, and international
+        collaborations built at Tohoku University, Japan. We pair hands-on
+        process know-how with sustainability analysis — and we welcome students
+        and industry partners who want to build a net-zero chemical industry.
+
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
