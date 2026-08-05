@@ -13,7 +13,7 @@ sections:
         sustainable manufacturing and net-zero carbon. Please get in touch.
 
         歡迎對永續製造與淨零碳排有興趣的學生與合作夥伴聯繫我們。
-      email: tsaiwei@mail.ncku.edu.tw   # [待確認 email]
+      email: twwu@gs.ncku.edu.tw
       phone: ''
       address:
         street: No. 1, University Road   # [待確認 系館/辦公室]

@@ -52,9 +52,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: 'https://scholar.google.com.tw/citations?user=Vl7nZuYAAAAJ&hl=zh-TW'
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
