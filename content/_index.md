@@ -28,16 +28,6 @@ sections:
                 brightness: 0.6
             position: center
             color: '#203a43'
-        - title: Toward Net-Zero Chemical Manufacturing
-          content: 'Department of Chemical Engineering, National Cheng Kung University'
-          align: center
-          background:
-            image:
-              filename: IMG_9866.JPG
-              filters:
-                brightness: 0.6
-            position: center
-            color: '#203a43'
     design:
       slide_height: '420px'
   - block: markdown
