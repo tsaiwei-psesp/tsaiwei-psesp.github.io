@@ -79,18 +79,6 @@ sections:
     design:
       columns: '1'
 
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-    design:
-      view: citation
-      columns: '1'
-
   - block: markdown
     content:
       title: About the Lab
