@@ -3,7 +3,7 @@ title: Shobhit
 first_name: Shobhit
 last_name: ''
 superuser: false
-role: Visiting MSc Researcher
+role: Visiting MSc Researcher (2026)
 organizations:
   - name: Department of Chemical Engineering, NCKU
     url: 'https://www.che.ncku.edu.tw/'
@@ -13,7 +13,7 @@ interests:
   - Automated life-cycle inventory (LCI)
   - Knowledge graphs
 user_groups:
-  - Visitors
+  - Alumni
 ---
 
 Shobhit (IIT-Delhi background) develops machine-learning and knowledge-graph
