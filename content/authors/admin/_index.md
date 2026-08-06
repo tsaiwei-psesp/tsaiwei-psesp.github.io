@@ -9,6 +9,12 @@ last_name: Wu
 # Is this the primary user of the site?
 superuser: true
 
+# Do not render a standalone /author/tsai-wei-wu/ page (duplicates the /cv/ PI page).
+# `list: always` keeps the profile available to the People block and publications.
+build:
+  render: never
+  list: always
+
 # Role/position
 role: Principal Investigator · 教授
 

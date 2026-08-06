@@ -13,7 +13,8 @@ sections:
         sustainable manufacturing and net-zero carbon. Please get in touch.
 
         歡迎對永續製造與淨零碳排有興趣的學生與合作夥伴聯繫我們。
-      email: twwu@gs.ncku.edu.tw
+
+        **Email:** <a class="js-mail" data-u="twwu" data-d="gs.ncku.edu.tw" data-show href="#">twwu [at] gs.ncku.edu.tw</a>
       phone: '+886 6 2757575 ext 62666'
       address:
         street: No. 1, University Road

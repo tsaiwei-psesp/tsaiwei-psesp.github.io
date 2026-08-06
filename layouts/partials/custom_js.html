@@ -1,0 +1,13 @@
+{{/* Email anti-scraping: assemble mailto/address from split data-* attributes at runtime. */}}
+{{/* The raw HTML never contains the full "user@domain" string, so email harvesters miss it. */}}
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('.js-mail').forEach(function (el) {
+      var u = el.getAttribute('data-u'), d = el.getAttribute('data-d');
+      if (!u || !d) return;
+      var addr = u + '@' + d;
+      if (el.tagName === 'A') { el.setAttribute('href', 'mailto:' + addr); }
+      if (el.hasAttribute('data-show')) { el.textContent = addr; }
+    });
+  });
+</script>
