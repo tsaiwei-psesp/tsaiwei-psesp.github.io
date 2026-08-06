@@ -87,6 +87,11 @@ sections:
       text: |
         <div class="award-card">
         <div class="award-body">
+        <p><strong>Prof. Tsai-Wei Wu</strong> has been selected as a <strong>Yushan Young Fellow (玉山青年學者)</strong> — the first cohort of the Ministry of Education's Yushan Young Scholar Program. 🎉</p>
+        </div>
+        </div>
+        <div class="award-card">
+        <div class="award-body">
         <span class="award-date">2026 / 03</span>
         <p>Congratulations to <strong>Si-Wun Chen (陳璽文)</strong> on receiving the <strong>Outstanding Presentation Award (優秀發表獎)</strong> at the <strong>Green Engineering Cross-Disciplinary Workshop</strong>! 🌱</p>
         </div>
