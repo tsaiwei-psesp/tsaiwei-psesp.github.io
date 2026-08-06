@@ -8,6 +8,32 @@
   justify-content: center;
 }
 
+// Award and Grant News — dated card (theme-agnostic translucent green)
+.award-card {
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: left;
+  background: rgba(46, 158, 107, 0.08);
+  border: 1px solid rgba(46, 158, 107, 0.28);
+  border-left: 4px solid #2e9e6b;
+  border-radius: 10px;
+  padding: 1.1rem 1.4rem 1.2rem;
+}
+.award-date {
+  display: inline-block;
+  background: #2e9e6b;
+  color: #fff;
+  font-weight: 700;
+  font-size: 0.85rem;
+  letter-spacing: 0.04em;
+  padding: 0.2rem 0.7rem;
+  border-radius: 6px;
+  margin-bottom: 0.75rem;
+}
+.award-card p { margin: 0 0 0.5rem; }
+.award-card ul { margin: 0; padding-left: 1.25rem; }
+.award-card li { margin: 0.25rem 0; }
+
 // Fix: the long lab name in the navbar brand forced ~580px width and caused
 // horizontal overflow on mobile (whole page shifted / content cut off on the right).
 // Constrain the brand so it wraps within the viewport on small screens.

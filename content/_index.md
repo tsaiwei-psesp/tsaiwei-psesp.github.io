@@ -81,6 +81,22 @@ sections:
       columns: '2'
 
   - block: markdown
+    id: awards
+    content:
+      title: Award and Grant News
+      text: |
+        <div class="award-card">
+        <span class="award-date">2026 / 07</span>
+        <p>Congratulations to the following students for their outstanding achievements at the <strong>2026 Taiwanese Colloid and Interface Society &amp; International Symposium on Nanomaterials and Colloidal Science (TWCIS)</strong>:</p>
+        <ul>
+        <li><strong>Yu-Ting Tai</strong> (戴郁庭, D2) — Best Poster Award</li>
+        <li><strong>Che-An Cheng</strong> (鄭哲安, M1) — Excellent Poster Award</li>
+        </ul>
+        </div>
+    design:
+      columns: '1'
+
+  - block: markdown
     content:
       title: About the Lab
       subtitle:
