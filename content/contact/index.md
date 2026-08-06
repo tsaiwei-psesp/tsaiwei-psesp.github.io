@@ -14,21 +14,20 @@ sections:
 
         歡迎對永續製造與淨零碳排有興趣的學生與合作夥伴聯繫我們。
       email: twwu@gs.ncku.edu.tw
-      phone: ''
+      phone: '+886 6 2757575 ext 62666'
       address:
-        street: No. 1, University Road   # [待確認 系館/辦公室]
+        street: No. 1, University Road
         city: Tainan
-        region: ''
+        region: 'East Dist.'
         postcode: '701'
         country: Taiwan
         country_code: TW
-      coordinates:
-        latitude: '22.9999'   # [待確認 地圖座標]
-        longitude: '120.2185'
+
       directions: 'Department of Chemical Engineering, National Cheng Kung University'
-      office_hours:
-        - '[待填 office hours]'
-      appointment_url: ''
+      coordinates:
+        latitude: '22.997777527524836'
+        longitude: '120.22272609815586'
+
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
