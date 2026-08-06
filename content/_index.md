@@ -87,6 +87,7 @@ sections:
       text: |
         <div class="award-card">
         <div class="award-body">
+        <span class="award-date">2026 / 08</span>
         <p><strong>Prof. Tsai-Wei Wu</strong> has been selected as a <strong>Yushan Young Fellow (玉山青年學者)</strong> — the first cohort of the Ministry of Education's Yushan Young Scholar Program. 🎉</p>
         </div>
         </div>
