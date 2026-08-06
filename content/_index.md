@@ -77,6 +77,19 @@ sections:
     design:
       columns: '1'
 
+  - block: collection
+    content:
+      title: Latest News
+      subtitle:
+      count: 3
+      filters:
+        folders:
+          - post
+      order: desc
+    design:
+      view: card
+      columns: '2'
+
   - block: markdown
     content:
       title: About the Lab
