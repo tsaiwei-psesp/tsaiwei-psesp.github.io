@@ -40,16 +40,14 @@ sections:
             color: '#203a43'
     design:
       slide_height: '420px'
-  - block: hero
+  - block: markdown
     id: hero
     content:
-      title: |
-        Process Systems Engineering &
-        Sustainable Production Lab
+      title: Engineering Net-Zero Chemical Manufacturing
       text: |
-        <br>
-
         At the **Department of Chemical Engineering, National Cheng Kung University (NCKU)**, we engineer the path to **net-zero chemical manufacturing** — combining process simulation, optimization, and life cycle assessment to turn decarbonization ideas into deployable processes.
+    design:
+      columns: '1'
 
   - block: features
     id: directions
