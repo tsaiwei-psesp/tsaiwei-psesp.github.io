@@ -37,14 +37,8 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
     
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      # Email form removed — Netlify forms don't work on GitHub Pages.
+      # Visitors contact us directly via the email above (autolinked).
     design:
       columns: '1'
 
