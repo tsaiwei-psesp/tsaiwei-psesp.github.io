@@ -5,14 +5,37 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: slider
+    content:
+      slides:
+        - title: Process Systems Engineering & Sustainable Production Lab
+          content: 'Engineering the path to net-zero chemical manufacturing at NCKU'
+          align: center
+          background:
+            image:
+              filename: IMG_9864.jpg
+              filters:
+                brightness: 0.6
+            position: center
+            color: '#203a43'
+        - title: Meet the Team
+          content: 'CCUS · Life Cycle Assessment · Adsorption Separation · Process Systems Engineering'
+          align: center
+          background:
+            image:
+              filename: IMG_9866.JPG
+              filters:
+                brightness: 0.6
+            position: center
+            color: '#203a43'
+    design:
+      slide_height: '420px'
   - block: hero
     id: hero
     content:
       title: |
         Process Systems Engineering &
         Sustainable Production Lab
-      image:
-        filename: welcome.jpg
       text: |
         <br>
 
