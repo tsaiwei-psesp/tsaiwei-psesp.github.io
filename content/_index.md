@@ -86,12 +86,11 @@ sections:
       title: Award and Grant News
       text: |
         <div class="award-card">
-        <span class="award-date">2026 / 07</span>
-        <p>Congratulations to the following students for their outstanding achievements at the <strong>2026 Taiwanese Colloid and Interface Society &amp; International Symposium on Nanomaterials and Colloidal Science (TWCIS)</strong>:</p>
-        <ul>
-        <li><strong>Yu-Ting Tai</strong> (戴郁庭, D2) — Best Poster Award</li>
-        <li><strong>Che-An Cheng</strong> (鄭哲安, M1) — Excellent Poster Award</li>
-        </ul>
+        <div class="award-body">
+        <span class="award-date">2026 / 03</span>
+        <p>Congratulations to <strong>Si-Wun Chen (陳璽文)</strong> on receiving the <strong>Outstanding Presentation Award (優秀發表獎)</strong> at the <strong>Green Engineering Cross-Disciplinary Workshop</strong>! 🌱</p>
+        </div>
+        <img class="award-photo" src="/uploads/award-siwun-2026.jpg" alt="Si-Wun Chen receiving the Outstanding Presentation Award">
         </div>
     design:
       columns: '1'
