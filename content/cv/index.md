@@ -1,12 +1,12 @@
 ---
-title: Curriculum Vitae
+title: Backgrounds
 date: 2026-08-01
 type: landing
 
 sections:
   - block: markdown
     content:
-      title: Curriculum Vitae — Tsai-Wei Wu 吳采薇
+      title: Backgrounds — Tsai-Wei Wu 吳采薇
       subtitle: 'Principal Investigator · Department of Chemical Engineering, NCKU'
       text: |
         **研究專長:** 程序系統工程、碳捕獲與再利用技術、生命週期評估、永續製程
@@ -19,28 +19,13 @@ sections:
         in the chemical engineering sector. Currently focused on developing
         sustainable strategies for the chemical manufacturing industry.
 
-        ### Skills
-
-        - Process simulation: Aspen Plus, Aspen Plus Dynamics, Aspen Exchanger Design and Rating
-        - Control strategy design for distillation columns
-        - Systematic evaluation of CO₂ capture, utilization and storage technologies
-        - Life-cycle assessment methodologies
-        - Optimization, energy analysis and integration, economic and environmental analysis for plant-wide processes
-        - Engineering design: scale-up design, detailed diagrams, equipment and instrumentation specification, control logics and human–machine interface
-        - Chemical laboratory set-up and design of experiments
-
         ### Education
 
         **Ph.D. in Chemical Engineering** (2018–2022) — National Taiwan University
-        Process Systems Engineering Lab; Advisor: Prof. I-Lung Chien
-        - Topic 1: CO₂ utilization by converting to high-value products or fuels (DMC, DEC, DME)
-        - Topic 2: Control-structure design for double-column reactive–extractive distillation
 
-        **M.S. in Chemical Engineering** (2012–2014) — National Tsing Hua University (GPA 4.14/4.30)
-        Separation and Chemical Reaction Engineering Lab; Advisor: Prof. Chung-Sung Tan
-        - Topic: CO₂ capture using PZ/DETA mixture from natural-gas power-plant flue gas in a rotating packed bed
+        **M.S. in Chemical Engineering** (2012–2014) — National Tsing Hua University
 
-        **B.S. in Chemical Engineering** (2008–2012) — National Tsing Hua University (GPA 3.80/4.30)
+        **B.S. in Chemical Engineering** (2008–2012) — National Tsing Hua University
     design:
       columns: '1'
 
@@ -49,13 +34,6 @@ sections:
       title: Work Experience
       text: |
         **Process Development Engineer** (March 2015 – February 2023) — Reciprocal Phi Design Inc. (典仲有限公司)
-
-        - *CO₂ Capture Demo Plant* — Formosa Petrochemical Corp. (2015): HMI design, plant start-up, troubleshooting, SOP design
-        - *Ammonia Removal in Industrial Wastewater* — Kuang Ming Enterprise Co. (2014–2015): ammonia-stripping scale-up (Aspen Plus), P&ID
-        - *Chemical Manufacture and Purification* (2016–2017): pilot-to-commercial scale-up, batch reaction & distillation simulation, PFD/P&ID, equipment design
-        - *MeOH Recovery Batch Distillation* — HOPAX Corp. (2017–2018): sequential control logic, batch-distillation simulation, PFD/P&ID
-        - *Solvent Recovery Process Revamping* — Formosa Plastics Corp. (2019–2020): steady-state model rebuild, energy analysis, energy-saving scenario
-        - *Pressure Swing Adsorption Pilot Plant* — China Steel Corp. (2022–2023): HMI design, trial run, cyclic PSA simulation (Aspen Adsorption)
 
         **Teaching Assistant** (February 2020 – June 2022) — National Taiwan University
         Computer-Aided Process Design; Chemical Engineering Process Design Practice (Prof. I-Lung Chien)
@@ -73,9 +51,7 @@ sections:
     content:
       title: Honors
       text: |
-        - Dean's Award, College of Engineering (2022), National Taiwan University — "Environmental and Economic Analysis for Processes of CO₂ Conversion to DMC, DEC and DME"
         - Postdoctoral Research Abroad Program (千里馬計畫), sponsored by the National Science and Technology Council (NSTC), Taiwan (2023)
-        - Best Oral Presentation Award, 2024 Symposium on Thermodynamics and Process Systems Engineering (3–4 May 2024)
     design:
       columns: '1'
 
