@@ -7,3 +7,34 @@
 .cta-group {
   justify-content: center;
 }
+
+// Fix: the long lab name in the navbar brand forced ~580px width and caused
+// horizontal overflow on mobile (whole page shifted / content cut off on the right).
+// Constrain the brand so it wraps within the viewport on small screens.
+.navbar-brand {
+  white-space: normal;
+  max-width: calc(100vw - 100px); // leave room for dark-mode toggle + hamburger
+  line-height: 1.15;
+}
+@media (max-width: 991.98px) {
+  .navbar-brand {
+    font-size: 0.9rem;
+  }
+}
+@media (min-width: 992px) {
+  .navbar-brand {
+    max-width: none;
+    white-space: nowrap;
+  }
+}
+
+// Shrink the homepage carousel/slider heading on mobile so long words
+// (e.g. "Manufacturing") don't break mid-word.
+@media (max-width: 767.98px) {
+  .carousel-item h1,
+  .carousel-caption h1 {
+    font-size: 1.6rem;
+    word-break: normal;
+    overflow-wrap: normal;
+  }
+}

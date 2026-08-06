@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-        - title: Process Systems Engineering & Sustainable Production Lab
-          content: 'Engineering the path to net-zero chemical manufacturing at NCKU'
+        - title: Net-Zero Chemical Manufacturing
+          content: 'Process Systems Engineering & Sustainable Production Lab · NCKU'
           align: center
           background:
             image:
