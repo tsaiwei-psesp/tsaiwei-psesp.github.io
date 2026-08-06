@@ -38,3 +38,26 @@
     overflow-wrap: normal;
   }
 }
+
+// Headings one step smaller (PI request): shrink display headings relative to
+// the body scale. rem is relative to the root set by font_size, so these use a
+// factor below the theme defaults (hero-title ~2.3rem, h1 ~2.1rem).
+.hero-title {
+  font-size: 2.3rem !important;
+  line-height: 1.2;
+}
+h1,
+h1.mb-0,
+.article-title {
+  font-size: 2.05rem !important;
+  line-height: 1.22;
+}
+@media (max-width: 767.98px) {
+  .hero-title {
+    font-size: 1.7rem !important;
+  }
+  h1,
+  .article-title {
+    font-size: 1.6rem !important;
+  }
+}

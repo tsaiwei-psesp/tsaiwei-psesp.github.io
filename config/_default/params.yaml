@@ -8,7 +8,7 @@
 appearance:
   theme_day: mint
   theme_night: mint
-  font: native
+  font: minimal
   font_size: L
 
 # SEO
