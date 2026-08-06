@@ -10,8 +10,8 @@ authors:
   - R. Umezu
   - S. T. Lin
   - Y. Fukushima
-date: "2025-01-01T00:00:00Z"
-publishDate: "2025-01-01T00:00:00Z"
+date: "2025-12-01T00:00:00Z"
+publishDate: "2025-12-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "*Chemical Engineering Journal*, 520, 166354"
 doi: ""
