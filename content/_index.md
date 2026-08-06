@@ -69,7 +69,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest News
+      title: Latest Events
       subtitle:
       count: 3
       filters:

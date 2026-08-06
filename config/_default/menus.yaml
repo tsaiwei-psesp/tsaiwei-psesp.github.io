@@ -19,7 +19,7 @@ main:
   - name: Publications
     url: publication
     weight: 40
-  - name: News
+  - name: Events
     url: post
     weight: 50
   - name: Contact
