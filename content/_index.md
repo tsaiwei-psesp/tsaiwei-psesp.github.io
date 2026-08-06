@@ -81,25 +81,6 @@ sections:
 
   - block: collection
     content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 4
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '2'
-
-  - block: collection
-    content:
       title: Recent Publications
       text: ""
       count: 5

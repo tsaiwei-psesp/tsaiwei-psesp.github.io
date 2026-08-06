@@ -3,7 +3,7 @@ title: Shobhit
 first_name: Shobhit
 last_name: ''
 superuser: false
-role: Visiting MSc Researcher (2026)
+role: Visiting Undergraduate Researcher (2026 IIPP)
 organizations:
   - name: Department of Chemical Engineering, NCKU
     url: 'https://www.che.ncku.edu.tw/'
