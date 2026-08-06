@@ -14,9 +14,9 @@ sections:
           background:
             image:
               filename: S__38903834.jpg
+              position: center 60%
               filters:
                 brightness: 0.6
-            position: center
             color: '#203a43'
         - title: Meet the Team
           content: 'CCUS · Life Cycle Assessment · Adsorption Separation · Process Systems Engineering'
@@ -67,19 +67,6 @@ sections:
     design:
       columns: '1'
 
-  - block: collection
-    content:
-      title: Latest Events
-      subtitle:
-      count: 3
-      filters:
-        folders:
-          - post
-      order: desc
-    design:
-      view: card
-      columns: '2'
-
   - block: markdown
     id: awards
     content:
@@ -100,6 +87,19 @@ sections:
         </div>
     design:
       columns: '1'
+
+  - block: collection
+    content:
+      title: Latest Events
+      subtitle:
+      count: 3
+      filters:
+        folders:
+          - post
+      order: desc
+    design:
+      view: card
+      columns: '2'
 
   - block: markdown
     content:
