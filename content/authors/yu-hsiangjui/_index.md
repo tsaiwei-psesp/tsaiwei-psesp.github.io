@@ -13,7 +13,7 @@ interests:
   - CO₂ capture
   - Process simulation
 user_groups:
-  - Grad Students
+  - Master's Students
 ---
 
 Hsiang-Jui models cyclic pressure swing adsorption (PSA) in Aspen Adsorption for

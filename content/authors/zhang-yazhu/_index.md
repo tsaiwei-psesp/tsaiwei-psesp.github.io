@@ -13,7 +13,7 @@ interests:
   - Life Cycle Assessment (LCA)
   - Process dynamics & control
 user_groups:
-  - Grad Students
+  - Master's Students
 ---
 
 Ya-Zhu studies energy-storage systems — liquid-CO₂ (LCES), liquid-air (LAES),

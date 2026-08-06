@@ -13,7 +13,7 @@ interests:
   - Automated life-cycle inventory (LCI)
   - Knowledge graphs / GraphRAG
 user_groups:
-  - Grad Students
+  - Master's Students
 ---
 
 Yuan-Te develops locally-hosted large-language-model workflows for life-cycle

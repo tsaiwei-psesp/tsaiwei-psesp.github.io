@@ -13,7 +13,7 @@ interests:
   - Process simulation (Aspen Plus)
   - Life Cycle Assessment (LCA)
 user_groups:
-  - Grad Students
+  - Master's Students
 ---
 
 Ching-Wei models electrified carbon-capture-and-utilization (CCU) processes in

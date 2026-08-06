@@ -13,7 +13,7 @@ interests:
   - CO₂ capture
   - Adsorbent screening & process modelling
 user_groups:
-  - Grad Students
+  - PhD Students
 ---
 
 Tse-Sheng applies the Batch Adsorber Analogue Model (BAAM) to rapidly screen

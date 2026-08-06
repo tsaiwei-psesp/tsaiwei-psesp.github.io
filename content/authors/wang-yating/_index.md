@@ -13,7 +13,7 @@ interests:
   - Direct Air Capture (DAC)
   - Sorbent materials
 user_groups:
-  - Grad Students
+  - Master's Students
 ---
 
 Ya-Ting conducts SimaPro-based life cycle assessment comparing direct-air-capture

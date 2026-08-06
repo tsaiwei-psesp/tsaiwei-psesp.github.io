@@ -13,7 +13,8 @@ sections:
       user_groups:
           - Principal Investigators
           - Researchers
-          - Grad Students
+          - PhD Students
+          - Master's Students
           - Undergraduate Researchers
           - Visitors
           - Alumni

@@ -13,7 +13,7 @@ interests:
   - Reactive distillation
   - AI / LLM agents for LCA
 user_groups:
-  - Grad Students
+  - Master's Students
 ---
 
 Chun-Wei quantifies sustainability indicators for reactive distillation processes
