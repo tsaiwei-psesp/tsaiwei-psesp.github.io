@@ -1,0 +1,21 @@
+# Custom theme — mint green navbar (#EBF5EE) requested by PI
+name = "Mint"
+
+[light]
+  # Primary (links, buttons, accents)
+  primary = "#2e9e6b"
+
+  # Menu / navbar
+  menu_primary = "#EBF5EE"        # mint-green bar
+  menu_text = "#2f4f43"           # dark green-grey (readable on mint)
+  menu_text_active = "#2e9e6b"    # active link = accent green
+  menu_title = "#22392f"          # brand title
+
+  # Home sections (alternating backgrounds)
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(240, 248, 243)"   # faint mint tint
+
+[dark]
+  primary = "#7dd0a8"
+  link = "#7dd0a8"
+  link_hover = "#a5e3c4"
