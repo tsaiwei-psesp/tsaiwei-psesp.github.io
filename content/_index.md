@@ -13,7 +13,7 @@ sections:
           align: center
           background:
             image:
-              filename: IMG_9864.jpg
+              filename: S__38903834.jpg
               filters:
                 brightness: 0.6
             position: center
