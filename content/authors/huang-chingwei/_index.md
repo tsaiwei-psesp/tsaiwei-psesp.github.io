@@ -1,6 +1,6 @@
 ---
-title: Ching-Wei Huang 黃慶維
-first_name: Ching-Wei
+title: Qing-Wei Huang 黃慶維
+first_name: Qing-Wei
 last_name: Huang
 superuser: false
 role: MSc Student
@@ -16,8 +16,8 @@ user_groups:
   - Master's Students
 ---
 
-Ching-Wei models electrified carbon-capture-and-utilization (CCU) processes in
+Qing-Wei models electrified carbon-capture-and-utilization (CCU) processes in
 Aspen Plus — including CO₂ electrochemical reduction — and evaluates
 cradle-to-gate life-cycle emissions across a range of electrification scenarios.
 
-<!-- 英文拼音 "Ching-Wei Huang" 為暫擬，請確認。 -->
+<!-- 英文拼音 "Qing-Wei Huang" 依教授指示確認（2026-08）。 -->
