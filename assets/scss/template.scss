@@ -69,6 +69,30 @@
     max-width: none;
     white-space: nowrap;
   }
+  // Keep menu labels (e.g. "Join Us") on one line.
+  #navbar-main .navbar-nav .nav-link {
+    white-space: nowrap;
+  }
+}
+// Desktop widths where the one-line lab name + full menu don't fit
+// (Contact and the theme toggle were pushed off-screen): wrap the name to two lines.
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  #navbar-main .navbar-brand {
+    white-space: normal;
+    max-width: 320px;
+    font-size: 0.95rem;
+  }
+  #navbar-main .navbar-nav .nav-link {
+    padding-left: 0.35rem;
+    padding-right: 0.35rem;
+  }
+}
+@media (min-width: 1200px) and (max-width: 1599.98px) {
+  #navbar-main .navbar-brand {
+    white-space: normal;
+    max-width: 380px;
+    font-size: 1.15rem;
+  }
 }
 
 // Shrink the homepage carousel/slider heading on mobile so long words

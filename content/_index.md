@@ -39,6 +39,22 @@ sections:
     design:
       columns: '1'
 
+  - block: markdown
+    id: join
+    content:
+      title:
+      text: |
+        <div class="award-card">
+        <div class="award-body">
+        <span class="award-date">Join Us 招生中</span>
+        <p><strong>We are recruiting PhD students</strong> in PSE/LCA for net-zero manufacturing.<br>
+        本實驗室招收博士生，研究方向為淨零製造之程序系統工程與生命週期評估。</p>
+        <a class="btn btn-primary mt-2" href="/opportunities/">Learn more 詳細資訊 →</a>
+        </div>
+        </div>
+    design:
+      columns: '1'
+
   - block: features
     id: directions
     content:

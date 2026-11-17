@@ -14,6 +14,10 @@ sections:
 
         歡迎對永續製造與淨零碳排有興趣的學生與合作夥伴聯繫我們。
 
+        PhD positions are open — see [Join Us](/opportunities/).
+
+        博士生招募資訊請見 [Join Us](/opportunities/)。
+
         **Email:** <a class="js-mail" data-u="twwu" data-d="gs.ncku.edu.tw" data-show href="#">twwu [at] gs.ncku.edu.tw</a>
       phone: '+886 6 2757575 ext 62666'
       address:
