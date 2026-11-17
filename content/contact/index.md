@@ -19,7 +19,6 @@ sections:
         博士生招募資訊請見 [Join Us](/opportunities/)。
 
         **Email:** <a class="js-mail" data-u="twwu" data-d="gs.ncku.edu.tw" data-show href="#">twwu [at] gs.ncku.edu.tw</a>
-      phone: '+886 6 2757575 ext 62666'
       address:
         street: No. 1, University Road
         city: Tainan
